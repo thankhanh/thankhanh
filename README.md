@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Node.js+Ecosystem;Express.js+%7C+NestJS+Developer;Building+Scalable+Systems;System+Design+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Developer+Intern+%7C+Software+Engineering+Sai+gon+ university;Node.js+%7C+Express.js+%7C+NestJS+Developer;Building+Scalable+Systems;System+Design+Learner" />
 </p>
 
 ---
@@ -98,8 +98,14 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
   <a href="mailto:hathanhkhanh55204@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E5F74" />
   </a>
-  <a href="https://www.linkedin.com/in/thanh-kh%C3%A1nh-h%C3%A0-2a8136377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/thankhanh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E5F74" />
+  </a>
+  <a href="http://facebook.com/thankhanh55204">
+    <img src="https://img.shields.io/badge/Facebook-0B1F3A?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1E5F74" />
+  </a>
+  <a href="YOUR_ZALO_LINK">
+    <img src="https://img.shields.io/badge/Zalo-0B1F3A?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1E5F74" />
   </a>
 </p>
 

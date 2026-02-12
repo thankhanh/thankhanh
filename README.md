@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Developer+Intern+%7C+Software+Engineering+%40+Sai+Gon+University;Node.js+%7C+Express.js+%7C+NestJS+Developer;Building+Scalable+Backend+Systems;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Backend+Developer+Intern+%7C+Software+Engineering+%40+Sai+Gon+University;Node.js+%7C+Express.js+%7C+NestJS+Developer;Building+Scalable+Backend+Systems;System+Design+Enthusiast" />
 </p>
 
 ---
@@ -104,9 +104,9 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
   <a href="http://facebook.com/thankhanh55204">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://zalo.me/55204">
+  <!-- <a href="https://zalo.me/55204">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=wechat&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---

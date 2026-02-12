@@ -82,18 +82,22 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 ## 📊 ENGINEERING SUMMARY
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thankhanh&theme=github_dark" />
+  <img width="100%" 
+       src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&bg_color=00000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thankhanh&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thankhanh&theme=github_dark" />
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&bg_color=00000000&hide_border=true" />
+  <img width="49%" 
+       src="https://streak-stats.demolab.com?user=thankhanh&background=00000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=github_dark&utcOffset=7" />
+  <img width="100%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=thankhanh&bg_color=00000000&hide_border=true" />
 </p>
+
 ---
 
 ## 📫 CONTACT

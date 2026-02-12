@@ -1,68 +1,71 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43,100:2c5364&height=220&section=header&text=Thanh%20Khanh%20Ha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2d50,100:133b5c&height=220&section=header&text=Thanh%20Khanh%20Ha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-
-<h2 align="center">Backend Developer • Node.js Ecosystem • SGU</h2>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Software Engineering student @ **Sai Gon University**
-- 🚀 Backend Developer Intern
-- 🧠 Focused on:
-  - Scalable RESTful API Design
-  - Clean Architecture & Modular Structure
-  - Authentication (JWT, OAuth)
-  - Database Optimization
-  - System Design Fundamentals
-- 🎯 Long-term goal: Become a strong Backend Engineer specializing in scalable systems
-
----
-
-## 🛠 Tech Stack
-
-### 🚀 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=flat&logo=mysql&logoColor=white)
-
-### ⚙ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📌 Featured Project
-
-### 🔹 Project Name
-> Brief description of the problem it solves and your technical contribution.  
-> Tech: Node.js / NestJS / PostgreSQL / Docker
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer+Intern;Software+Engineering+@+SGU;Building+Scalable+Architectures;System+Design+Enthusiast" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thanhkhanhha.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_ID)
-
----
-
 <p align="center">
-  <i>"Build scalable systems, not just APIs."</i>
+  <img src="https://img.shields.io/github/followers/thankhanh?label=Followers&style=for-the-badge&color=133b5c&labelColor=1d2d50" />
+  <img src="https://img.shields.io/badge/Experience-Junior%2FIntern-blue?style=for-the-badge&color=133b5c&labelColor=1d2d50" />
+  <img src="https://komarev.com/ghpvc/?username=thankhanh&label=PROFILE%20VIEWS&color=133b5c&style=for-the-badge" />
+</p>
+---
+## 💻 Tech Profile
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Profile Overview</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> Software Engineering Student at Sai Gon University (SGU).</li>
+        <li>💼 <b>Current:</b> Backend Developer Intern - Focusing on robust system architecture.</li>
+        <li>🧠 <b>Core Focus:</b> Scalable APIs, Microservices, and Database Optimization.</li>
+        <li>⚡ <b>Philoshopy:</b> "Clean code is not just written; it is engineered."</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🏆 Technical Badges</h3>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=thankhanh&theme=dracula&no-bg=true&column=2&margin-w=10" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+---
+## 🛠 Programming Universe
+### 🌐 Backend & Runtimes
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,spring,ts,js" />
+  </a>
+</p>
+### 🗄 Databases & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws" />
+  </a>
+</p>
+### ⚙ Developer Workflow
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,postman,bash,figma" />
+  </a>
+</p>
+---
+## 📈 System Metrics (GitHub Analytics)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter" height="180px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thankhanh&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+---
+## 📫 Communication
+<p align="center">
+  <a href="mailto:thanhkhanhha.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/[YOUR_ID]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/thankhanh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center">
+  <i>"Architecture is about the significant decisions that shape a system."</i>
 </p>

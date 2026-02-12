@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123B5A,100:1E5F74&height=220&section=header&text=Thanh%20Khanh%20Ha&fontSize=55&fontColor=EAF6FF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123B5A,100:1E5F74&height=230&section=header&text=Thanh%20Khanh%20Ha&fontSize=55&fontColor=EAF6FF&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=Backend+Developer+Intern+%7C+Software+Engineering+%40+Sai+Gon+University;Node.js+%7C+Express.js+%7C+NestJS+Developer;Building+Scalable+Systems;System+Design+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Developer+Intern+%7C+Software+Engineering+%40+Sai+Gon+University;Node.js+%7C+Express.js+%7C+NestJS+Developer;Building+Scalable+Backend+Systems;System+Design+Enthusiast" />
 </p>
 
 ---
@@ -96,16 +96,16 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 
 <p align="center">
   <a href="mailto:hathanhkhanh55204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E5F74" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/thanh-kh%C3%A1nh-h%C3%A0-2a8136377">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E5F74" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="http://facebook.com/thankhanh55204">
-    <img src="https://img.shields.io/badge/Facebook-0B1F3A?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1E5F74" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://zalo.me/55204">
-    <img src="https://img.shields.io/badge/Zalo-0B1F3A?style=for-the-badge&logo=zalando&logoColor=white&labelColor=1E5F74" />
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
 </p>
 

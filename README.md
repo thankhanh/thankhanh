@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Backend+Developer+Intern+%7C+Software+Engineering+%40+Sai+Gon+University;Node.js+Developer+%7C+Express.js+Developer+%7C+NestJS+Developer;Building+Scalable+Backend+Systems;System+Design+Enthusiast" />
 </p>
-
 ---
 
 ## 🌊 ABOUT
@@ -82,29 +81,18 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 ## 📊 ENGINEERING SUMMARY
 
 <p align="center">
-  <img width="100%" 
-       src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&bg_color=00000000&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thankhanh&theme=default" />
 </p>
 
 <p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&bg_color=00000000&hide_border=true" />
-  <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=transparent" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thankhanh&theme=default" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thankhanh&theme=default" />
 </p>
 
 <p align="center">
-  <img width="49%" 
-       src="https://streak-stats.demolab.com?user=thankhanh&background=00000000&hide_border=true" />
-  <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=transparent&utcOffset=7" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=default" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=default&utcOffset=7" />
 </p>
-
-<p align="center">
-  <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=thankhanh&bg_color=00000000&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 CONTACT

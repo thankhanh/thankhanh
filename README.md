@@ -91,6 +91,8 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=github&utcOffset=7" />
 </p>
 
+---
+
 ## 📫 CONTACT
 
 <p align="center">
@@ -107,7 +109,9 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=wechat&logoColor=white" />
   </a> -->
 </p>
+
 ---
+
 <p align="center">
   <i>"Depth over noise. Systems over shortcuts."</i>
 </p>

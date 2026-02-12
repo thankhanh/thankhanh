@@ -1,83 +1,110 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Thanh%20Khanh%20Ha&fontSize=60&fontColor=E0F7FA&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123B5A,100:1E5F74&height=220&section=header&text=Thanh%20Khanh%20Ha&fontSize=55&fontColor=EAF6FF&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern;Node.js+%7C+Express+%7C+NestJS;Scalable+Systems+Builder;System+Design+Learner" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/thankhanh?label=Followers&style=for-the-badge&color=0A2647&labelColor=144272" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0A2647?style=for-the-badge&labelColor=144272" />
-  <img src="https://komarev.com/ghpvc/?username=thankhanh&label=PROFILE%20VIEWS&color=144272&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Node.js+Ecosystem;Express.js+%7C+NestJS+Developer;Building+Scalable+Systems;System+Design+Learner" />
 </p>
 
 ---
 
-## 🌊 Tech Profile
+## 🌊 ABOUT
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Profile Overview</h3>
-      <ul>
-        <li>🎓 <b>Software Engineering @ SGU</b></li>
-        <li>💼 <b>Backend Developer Intern</b></li>
-        <li>🚀 Building scalable RESTful APIs</li>
-        <li>⚙️ Focus: Clean Architecture & System Design</li>
-        <li>🌊 Philosophy: Stability, Depth, Scalability</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-       <h3>📊 Coding Activity</h3>
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=thankhanh&theme=react-dark&hide_border=true&area=true&color=00B4D8" width="100%" />
-    </td>
-  </tr>
-</table>
+Software Engineering student at **Sai Gon University**, currently working as a **Backend Developer Intern**.
+
+Focused on:
+- Scalable RESTful API design
+- Clean & Modular Architecture
+- Authentication & Authorization (JWT, RBAC)
+- Database optimization & indexing
+- System design fundamentals
+
+Long-term direction: **Backend Engineer specialized in scalable distributed systems.**
 
 ---
 
-## ⚙️ Programming Stack
+## ⚙️ TECH STACK
 
-### 🌐 Backend
-<p align="left">
+### Backend
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js" />
 </p>
 
-### 🗄 Databases & DevOps
-<p align="left">
+### Databases & Infrastructure
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws" />
 </p>
 
 ---
 
-## 📈 System Metrics
+# 🚀 FEATURED PROJECTS
+
+### 1️⃣ Project Management API System
+> A scalable backend system for managing organizations, projects, and tasks.
+
+**Highlights:**
+- Multi-organization support
+- Role-based access control (RBAC)
+- JWT authentication
+- Modular architecture (NestJS)
+- Dockerized deployment
+
+**Tech:** NestJS • PostgreSQL • Redis • Docker
+
+---
+
+### 2️⃣ E-commerce Backend Service
+> Backend service handling orders, products, inventory, and payments simulation.
+
+**Highlights:**
+- Clean layered architecture
+- Transaction-safe order processing
+- Database indexing optimization
+- RESTful API design
+
+**Tech:** Express.js • Node.js • MySQL • JWT
+
+---
+
+### 3️⃣ Real-time Chat & Notification Service
+> Lightweight microservice for handling real-time communication.
+
+**Highlights:**
+- WebSocket integration
+- Redis pub/sub
+- Token-based authentication
+- Event-driven architecture
+
+**Tech:** Node.js • Socket.io • Redis • MongoDB
+
+---
+
+## 📊 ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&theme=react&count_private=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=react&hide_border=true&title_color=00B4D8" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=00C2FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thankhanh&theme=react&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thankhanh&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
 </p>
 
 ---
 
-## 📫 Communication
+## 📫 CONTACT
 
 <p align="center">
-  <a href="mailto:thanhkhanhha.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0A2647?style=for-the-badge&logo=gmail&logoColor=white&labelColor=144272" />
+  <a href="mailto:hathanhkhanh55204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E5F74" />
   </a>
-  <a href="https://www.linkedin.com/in/[ID_CỦA_BẠN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A2647?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=144272" />
-  </a>
-  <a href="https://github.com/thankhanh">
-    <img src="https://img.shields.io/badge/GitHub-0A2647?style=for-the-badge&logo=github&logoColor=white&labelColor=144272" />
+  <a href="https://www.linkedin.com/in/thanh-kh%C3%A1nh-h%C3%A0-2a8136377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E5F74" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>"Like water, adapt — but remain powerful."</i>
+  <i>"Depth over noise. Systems over shortcuts."</i>
 </p>

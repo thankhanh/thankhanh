@@ -91,7 +91,8 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=default" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=default&utcOffset=7" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=github&utcOffset=7" />
+
 </p>
 ---
 

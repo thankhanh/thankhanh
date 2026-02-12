@@ -13,20 +13,18 @@
 ## 💻 Tech Profile
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>🚀 Profile Overview</h3>
       <ul>
-        <li>🎓 <b>Education:</b> Software Engineering Student at Sai Gon University (SGU).</li>
-        <li>💼 <b>Current:</b> Backend Developer Intern - Focusing on robust system architecture.</li>
-        <li>🧠 <b>Core Focus:</b> Scalable APIs, Microservices, and Database Optimization.</li>
-        <li>⚡ <b>Philoshopy:</b> "Clean code is not just written; it is engineered."</li>
+        <li>🎓 <b>Education:</b> Software Engineering @ SGU.</li>
+        <li>💼 <b>Current:</b> Backend Intern - Focusing on System Design.</li>
+        <li>🧠 <b>Core Focus:</b> Scalable APIs & Microservices.</li>
+        <li>⚡ <b>Philosophy:</b> Engineering over just Coding.</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
-      <h3>🏆 Technical Badges</h3>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=thankhanh&theme=dracula&no-bg=true&column=2&margin-w=10" width="100%" />
-      </a>
+    <td width="50%" valign="top">
+       <h3>📊 Coding Activity</h3>
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=thankhanh&theme=tokyonight&hide_border=true&area=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -44,14 +42,8 @@
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws" />
   </a>
 </p>
-### ⚙ Developer Workflow
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,postman,bash,figma" />
-  </a>
-</p>
 ---
-## 📈 System Metrics (GitHub Analytics)
+## 📈 System Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter" height="180px"/>
@@ -63,7 +55,7 @@
 ## 📫 Communication
 <p align="center">
   <a href="mailto:thanhkhanhha.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/[YOUR_ID]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/[ID_CỦA_BẠN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/thankhanh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <p align="center">

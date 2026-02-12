@@ -79,16 +79,22 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 
 ---
 
-## 📊 ENGINEERING METRICS
+## 📊 ENGINEERING SUMMARY
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thankhanh&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thankhanh&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thankhanh&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thankhanh&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thankhanh&theme=github_dark" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=github_dark&utcOffset=7" height="180"/>
+</p>
+
 
 
 ---

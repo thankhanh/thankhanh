@@ -82,13 +82,14 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 ## 📊 ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thankhanh&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=00C2FF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thankhanh&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thankhanh&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thankhanh&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=thankhanh&theme=transparent&hide_border=true" height="170"/>
 </p>
+
 
 ---
 

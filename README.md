@@ -90,7 +90,14 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
   <img width="49%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankhanh&layout=compact&bg_color=00000000&hide_border=true" />
   <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="49%" 
        src="https://streak-stats.demolab.com?user=thankhanh&background=00000000&hide_border=true" />
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=transparent&utcOffset=7" />
 </p>
 
 <p align="center">

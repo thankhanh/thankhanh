@@ -79,22 +79,17 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
 ---
 
 ## 📊 ENGINEERING SUMMARY
-
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thankhanh&theme=default" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thankhanh&theme=default" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thankhanh&theme=default" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thankhanh&theme=default" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thankhanh&theme=github&utcOffset=7" />
-
 </p>
----
 
 ## 📫 CONTACT
 
@@ -112,9 +107,7 @@ Long-term direction: **Backend Engineer specialized in scalable distributed syst
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=wechat&logoColor=white" />
   </a> -->
 </p>
-
 ---
-
 <p align="center">
   <i>"Depth over noise. Systems over shortcuts."</i>
 </p>

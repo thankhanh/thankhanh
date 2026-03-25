@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Backend+Developer+Intern+%7C+Software+Engineering+%40+Sai+Gon+University;Node.js+Developer+%7C+Express.js+Developer+%7C+NestJS+Developer;Building+Scalable+Backend+Systems;System+Design+Enthusiast" />
 </p>
----
+
 
 ## 🌊 ABOUT
 
